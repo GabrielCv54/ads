@@ -7,8 +7,8 @@
          console.log('Porcada sem mundial🐽')
          alert('Porcada sem mundial🐽')
     }else if(club == 'Corinthians'){
-        console.log('🐔🐔🐔')
-        alert('🐔🐔')
+        console.log('Galinhada🐔🐔🐔')
+        alert('Galinhada🐔🐔')
     }else if(club == 'Santos'){
        alert('🧜Sereias da vila')
        console.log('🧜Sereias da vila')
